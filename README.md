@@ -1,2 +1,2 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# C37-CAMERA.x
+Modified Trex Game to use camera.x as trex.x
